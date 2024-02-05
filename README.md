@@ -2,6 +2,8 @@
 
 All the relevant code is in the App.js file.
 
+App.js is the same as the one in the official [guide](https://docs.expo.dev/versions/latest/sdk/notifications/).
+
 The project was generated as per standard procedure:
 
 ```
