@@ -33,7 +33,7 @@ As long the App is loaded, a couple of warings appears:
  WARN  `new NativeEventEmitter()` was called with a non-null argument without the required `removeListeners` method.
 ```
 
-On the device we can see that the warning occures in:
+On the device we can see that the warnings occure in:
 ```
 node_modules/expo-notifications/build/index.js
 ```
