@@ -22,7 +22,7 @@ expo-device was installed as per standard procedure:
 npx expo install expo-device
 ```
 
-As long the App is loaded, a couple of warings appears:
+As long the App is loaded, a couple of warnings appears:
 
 ```
  WARN  `new NativeEventEmitter()` was called with a non-null argument without the required `addListener` method.
